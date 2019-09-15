@@ -1,4 +1,3 @@
-# TUGAS4
 NAMA KELOMPOK :
 
 - ADAM MUHAMMAD IRSYAD RIFAT (1301174260)
@@ -7,5 +6,7 @@ NAMA KELOMPOK :
 - MUHAMMAD RIFKY EDWAR (1301174541)
 
 TUGAS LAINNYA:
-- SKPL & DPPL : https://github.com/adammuh10/IMPAL.git
-- TUGAS 2 SQL : https://github.com/adammuh10/TUGASIMPAL_2.git
+
+- SKPL & DPPL   : https://github.com/adammuh10/IMPAL.git
+- TUGAS 2 SQL   : https://github.com/adammuh10/TUGASIMPAL_2.git
+- TUGAS 4 PSPEC : https://github.com/adammuh10/TUGAS4.git
